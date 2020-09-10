@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>Michelangelo Buonarroti</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <h1>Michelangelo Buonarroti</h1>
+    <img src="Obraz3.png" alt="Michelangelo Buonarroti"/>
+    <p>Michelangelo di Lodovico Buonarroti Simoni často označovaný jen jako Michelangelo (6. března 1475, Caprese – 18. února 1564, Řím) byl italský sochař, architekt, malíř, básník a přední představitel vrcholné italské renesance a manýrismu. Jeho nejslavnější díla jsou monumentální socha Davida a malířská výzdoba Sixtinské kaple.
+    </p>
+    <nav>
+        <ol>
+        <p>Původní stránka</p>
+            <a href="Web">Původní stránka</a></li>
+        <p>Další malíř</p>
+            <a href="Web2">Leonardo da Vinci</a></li>
+        </ol>
+    </nav>
+  </body>
+
+</html>

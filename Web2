@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>Leonardo da Vinci</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <h1>Leonardo da Vinci</h1>
+    <img src="Obraz2.png" alt="Leonardo da Vinci"/>
+    <p>Leonardo da Vinci, rodným jménem Leonardo di ser Piero (15. dubna 1452 Anchiano u Vinci, Itálie – 2. května 1519 Le Clos Lucé u Amboise, Francie) byl italský malíř, čelný představitel renesanční malby, mimo jiné autor nejslavnějšího obrazu všech dob, portrétu zvaného Mona Lisa (kolem 1503–07, Louvre, Paříž). Proslul také jako všestranná renesanční osobnost: vedle malířství byl i sochař, architekt, přírodovědec, hudebník, spisovatel, vynálezce a konstruktér. Nemalou měrou se podílel také na zdůrazňování práv zvířat, s čímž pravděpodobně souvisel i jeho možný vegetariánský jídelníček.
+    </p>
+    <nav>
+        <ol>
+        <p>Původní stránka</p>
+            <a href="Web">Původní stránka</a></li>
+        <p>Další malíř</p>
+            <a href="Web3">Michelangelo Buonarroti</a></li>
+        </ol>
+    </nav>
+  </body>
+
+</html>

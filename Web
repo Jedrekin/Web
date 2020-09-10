@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Renesance</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+
+<h1>Renesance</h1>
+<p>Renesance je umělecký sloh a historická epocha trvající od 14. do 16. století. Vyznačoval se mimo jiné zesvětštěním, individualismem a návratem k antice. Též je úzce spjat s humanismem.
+</p>
+<p>Pojem znovuzrození (rinascenza) byl poprvé užit pro období rozkvětu umění a vědy, které začalo ve 13. století v Itálii, italským historikem Giorgiem Vasarim v roce 1550. Pojem renesance je francouzský překlad užitý francouzským historikem Jules Micheletem a dále rozšířený švýcarským historikem umění Jacobem Burckhardtem v 19. století.
+</p>
+
+  <img src="Obraz.png" alt="Ruce"/>
+
+  <ul>
+    <p>Typické rysy</p>
+    <li>Antropocentrismus</li>
+    <li>Individualismus</li>
+    <li>Humanismus</li>
+    <li>Vědecký základ umění</li>
+  </ul>
+
+  <nav>
+    <p2>Malíři</p2>
+      <li>
+          <a href="Web2">Leonardo da Vinci</a></li>
+          <a href="Web3">Michelangelo Buonarroti</a></li>
+      </li>
+  </nav>
+
+</body>
+</html>
